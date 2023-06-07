@@ -226,3 +226,12 @@ ul > li {
 .announcements__container p {
     font-size: 0.75rem;
 }
+
+.trending__header {
+  margin: 20px;
+}
+
+.trending__container {
+  padding: 3.5rem 3.5rem 3.5rem 1.5rem;
+  align-items:flex-start;
+}
